@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\IntPower.h(24,85): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\IntPower.cpp(42,82): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\UnitTest1\UnitTest1.cpp(16,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\Debug\UnitTest1.lib and object D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1A(OOP)\Debug\UnitTest1.dll
